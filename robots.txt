@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://solofudu.github.io/sitemap/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/KJo/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/PtH/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/lRJ/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/FcI/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/kpA/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/bMN/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/hEd/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/dgZ/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/RNu/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/yJZ/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/Jdj/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/FGw/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/CiA/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/ofV/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/MyQ/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/Mpv/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/cPM/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/WcR/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/JUC/sitemap_index.solofudu
+Sitemap: https://solofudu.github.io/DbH/sitemap_index.solofudu
